@@ -1,11 +1,12 @@
 .App {
   text-align: center;
   padding: 20px;
+  color: #000;
 }
 
 input {
   padding: 10px;
-  width: 300px;
+  width: 600px;
   margin-right: 10px;
   font-size: 16px;
 }
@@ -20,8 +21,17 @@ button {
   margin-top: 20px;
 }
 
-.result p {
+.spam p{
+  color: red;
+}
+.ham p{
+  color: green;
+}
+/* .result p { 
   font-weight: bold;
   font-size: 18px;
-}
+}*/
 
+h1{
+  color: aliceblue;
+}

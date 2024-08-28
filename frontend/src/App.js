@@ -31,7 +31,7 @@ function App() {
         <button type="submit">Find out!</button>
       </form>
       {prediction && (
-        <div className="result">
+        <div className={`result ${prediction === 'Spam!' ? 'spam' : 'ham'}`}>
           <h3>Prediction:</h3>
           <p>{prediction}</p>
         </div>
