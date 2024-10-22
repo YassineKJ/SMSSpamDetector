@@ -101,9 +101,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-=======
-# SMSSpamDetector
-A web app giving access to a model that predicts whether a given message is spam or not
->>>>>>> 693334ad70631b3c65fd356481eaa84d269e62e0
