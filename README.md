@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SMS SPAM Detector
 ## Introduction
 Welcome to the SMS Spam Detector project! This project is designed to automatically detect and classify SMS messages as either spam or non-spam (ham). The model is built using machine learning techniques, and the project includes a simple web application that allows users to input a message and receive a prediction.
